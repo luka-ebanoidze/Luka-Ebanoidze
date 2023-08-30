@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190901325/130769932-frontend-development-web-banner-concept-website-interface.jpg)
+![MasterHead](https://www.saqibmanzoor.com/wp-content/uploads/2020/01/web-development-banner-three.jpg)
 <h1 align="center">Hi 👋, I'm Luka Ebanoidze</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
